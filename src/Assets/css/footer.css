@@ -1,0 +1,16 @@
+.footer{
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    background-color: #383838;  
+    text-align: center;
+}
+.foot a{
+    padding-left: 4px;
+    padding-left: 4px;
+}
+
+
+.footer-p{
+    color: white;
+    font-size: 15px;
+}

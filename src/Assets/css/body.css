@@ -1,0 +1,15 @@
+.body{
+    margin:0;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.body-img{
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+a{
+    color: rgb(212, 141, 8);
+}
